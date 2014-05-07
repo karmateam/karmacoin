@@ -14,8 +14,6 @@ Karmacoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
 
  - 1 minute block targets
 
- - subsidy halves in 2.1M blocks (~4 years)
-
  - ~92 billion total coins
 
  - 10,000 coins per block with an additional bonus based on what block is being mined
@@ -27,13 +25,13 @@ Karmacoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - KGW 1 block to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Karmacoin client sofware, see http://www.karmacoin.info
+the Karma client sofware, see http://www.karmashare.me
 
 
 License
 -------
 
-Karmacoin is released under the terms of the MIT license. See `COPYING` for more
+Karma is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
