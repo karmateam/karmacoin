@@ -13,20 +13,18 @@ What is Karmacoin?
 Karmacoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.  It is designed to reward early miners more heavily than those who join later
 
  - 1 minute block targets
+
  - subsidy halves in 2.1M blocks (~4 years)
+
  - ~92 billion total coins
+
  - 10,000 coins per block with an additional bonus based on what block is being mined
 
  - Reward calculation
-	- 0-10,000 blocks => 10,000 + up to 2,000,000 bonus
-	- 10,000-25,000 blocks => 10,000 + up to 1,500,000 bonus
-	- 25,000-50,000 blocks => 10,000 + up to 1,000,000 bonus
-	- 50,000-100,000 blocks => 10,000 + up to 500,000 bonus
-	- 100,000-200,000 blocks => 10,000 + up to 200,000 bonus
- 	- 200,000-300,000 blocks => 10,000 + up to 50,000 bonus
-	- 300,000-400,000 blocks => 10,000 + up to 20,000 bonus
-	- 500,000+ blocks => 10,000 coins
- - 240 blocks to retarget difficulty
+      
+   needs to be rewritten
+
+ - KGW 1 block to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Karmacoin client sofware, see http://www.karmacoin.info
